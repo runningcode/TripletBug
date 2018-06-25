@@ -2,7 +2,7 @@
 plugins {
     id("com.android.application")
     kotlin("android")
-    id("com.github.triplet.play")
+//    id("com.github.triplet.play")
 }
 
 android {
